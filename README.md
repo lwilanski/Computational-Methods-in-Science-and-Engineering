@@ -7,4 +7,4 @@ This repository contains all the Jupyter Notebook files (.ipynb) for the assignm
 The repository is organized by lab sessions. Each Jupyter Notebook file corresponds to a specific lab session held during the course. Each file contains the implementation of algorithms and solutions to the problems given during that lab.
 
 ## Syllabus Link
-[Course Syllabus](https://youruniversity.edu/syllabus-link.pdf)
+[Course Syllabus](https://sylabusy.agh.edu.pl/pl/document/621f433d-d39d-4ecc-bb7b-cf60a5da0ce2.pdf)
